@@ -64,5 +64,3 @@ API criada com Node.js e Express para monitoramento de qualidade do ar. O projet
     ```bash
     http://localhost:3000/controle-ar/dados/123
     ```
-
-## Estrutura do Projeto
